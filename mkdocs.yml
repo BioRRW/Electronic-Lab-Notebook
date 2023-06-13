@@ -1,4 +1,4 @@
-site_name: obsidian-mkdocs template
+site_name: "Reed Woyda's Electronic Lab Notebook"
 
 theme:
     name: 'material'
