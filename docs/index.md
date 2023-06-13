@@ -1,11 +1,9 @@
-# Obsidian Notes
+# Reed Woyda's Electronic Lab notebook
 
-Publish your public notes with MkDocs
 
-## Hello World!
+## Usage
+The purpose of this site is to make available my on-going project notes
 
-The `index.md` in the `/docs` folder is the homepage you see here.
 
-The folders in `/docs` appear as the main sections on the navigation bar.
 
-The notes appear as pages within these sections. For example, [[Note 1]] in `Topic 1`
+This site was created using [MKdock Template and jobindjohn/obsidian-pubpish-mkdocs](https://github.com/jobindjohn/obsidian-publish-mkdocs)
